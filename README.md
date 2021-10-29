@@ -1,6 +1,6 @@
 # Angular-Sneakers-Site
 Site Angular / Express
-Pour lancer le serveur: - Demmarez 2 terminaux
+Pour lancer le serveur: - Démarrez 2 terminaux
 			- Lancez la commande: "npm start" dans le dosier Serveur
 			- Lancez la commande "ng serve -o" dans le dossier Projet
 
